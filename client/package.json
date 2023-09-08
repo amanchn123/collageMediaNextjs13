@@ -1,0 +1,48 @@
+{
+  "name": "collagemedia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.4",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "emoji-picker-react": "^4.4.11",
+    "firebase": "^10.2.0",
+    "framer-motion": "^10.16.0",
+    "next": "^13.4.19-canary.0",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.2",
+    "styled-components": "^5.3.11",
+    "swiper": "^10.1.0",
+    "tailwindcss": "3.3.3",
+    "uuid": "^9.0.0"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanchn123/collageMediaNextjs13.git"
+  },
+  "author": "aman chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanchn123/collageMediaNextjs13/issues"
+  },
+  "homepage": "https://github.com/amanchn123/collageMediaNextjs13#readme"
+}
